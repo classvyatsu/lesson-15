@@ -6,4 +6,8 @@
   font-weight: 500;
   font-size: 1.6rem;
   line-height: 140%;
+  background: url("../img/header/arrow-select-black.svg");
+  background-position: right;
+  background-repeat: no-repeat;
+  pointer-events: none;
 }
