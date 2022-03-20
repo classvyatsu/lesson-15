@@ -9,5 +9,8 @@
   background: url("../img/header/arrow-select-black.svg");
   background-position: right;
   background-repeat: no-repeat;
-  pointer-events: none;
+}
+
+.header__country::-webkit-calendar-picker-indicator {
+  opacity: 0;
 }
